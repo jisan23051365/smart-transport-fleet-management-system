@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build artefacts
+obj/
+fleet_mgmt
+tests/test_fleet
+
+# Runtime data directory
+data/
